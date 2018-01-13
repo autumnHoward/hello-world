@@ -1,2 +1,3 @@
 # hello-world
-an exercise for the sake of learning and time-honored tradition
+an exercise for the sake of learning, time-honored tradition...
+and for those who eat tacos on the moon. Which, I am happy to say, are not superior to Earth tacos.
